@@ -4,7 +4,7 @@
 
 - Node Version: 19.1.0
 
-### Environment variables
+## Environment variables
 
 - PORT, 4000 by default
 - MONGODB_URI
